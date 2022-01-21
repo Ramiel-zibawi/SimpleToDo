@@ -26,7 +26,7 @@ You can add a calender so that you can add items on different days
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![]https://github.com/Ramiel-zibawi/SimpleToDo/blob/fdb061976d060a38673da97e86827d53ada5e9c3/walkthrough.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
