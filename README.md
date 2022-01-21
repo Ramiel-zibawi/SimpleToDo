@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+
 You can add a calender so that you can add items on different days
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
